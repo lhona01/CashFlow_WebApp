@@ -7,3 +7,5 @@ Inside each section, the user will create rows of categories and total $’s of 
 Based on user input to the following section, display total cash available, and net cash flow, along with passive income.
 
 ## Software Architecture
+### System Diagram
+![System diagram](screenshot/systemDiagram.png)
