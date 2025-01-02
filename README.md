@@ -7,9 +7,9 @@ Inside each section, the user will create rows of categories and total $’s of 
 Based on user input to the following section, display total cash available, and net cash flow, along with passive income.
 
 ## Software Architecture
-### System Diagram              Container Diagram              Deployment Diagram
+### System Diagram/ Container Diagram/ Deployment Diagram
 <div>
-  <img src="https://github.com/lhona01/CashFlow_WebApp/blob/3c4e9b4bc6eff469e9a94e84a008cf303d2f40fe/screenshots/systemDiagram.png" width="48" style="display:inline-block; margin-right:10px;">
-  <img src="https://github.com/lhona01/CashFlow_WebApp/blob/086c48e251aa38a27f17764a1136cc602116420e/screenshots/containerDiagram.png" width="48" style="display:inline-block; margin-right:10px;">
-  <img src="https://github.com/lhona01/CashFlow_WebApp/blob/086c48e251aa38a27f17764a1136cc602116420e/screenshots/deploymentDiagram.png" width="48" style="display:inline-block;">
+  <img src="https://github.com/lhona01/CashFlow_WebApp/blob/3c4e9b4bc6eff469e9a94e84a008cf303d2f40fe/screenshots/systemDiagram.png" width="33%" style="display:inline-block; margin-right:10px;">
+  <img src="https://github.com/lhona01/CashFlow_WebApp/blob/086c48e251aa38a27f17764a1136cc602116420e/screenshots/containerDiagram.png" width="33%" style="display:inline-block; margin-right:10px;">
+  <img src="https://github.com/lhona01/CashFlow_WebApp/blob/086c48e251aa38a27f17764a1136cc602116420e/screenshots/deploymentDiagram.png" width="33%" style="display:inline-block;">
 </div>
