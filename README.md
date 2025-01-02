@@ -9,10 +9,4 @@ Based on user input to the following section, display total cash available, and 
 ## Software Architecture
 | System Diagram | Container Diagram | Deployment Diagram |
 |---------|---------|---------|
-| ![Image 1]([https://github.com/favicon.ico](https://github.com/lhona01/CashFlow_WebApp/blob/3c4e9b4bc6eff469e9a94e84a008cf303d2f40fe/screenshots/systemDiagram.png)) | ![Image 2]([https://github.com/favicon.ico](https://github.com/lhona01/CashFlow_WebApp/blob/086c48e251aa38a27f17764a1136cc602116420e/screenshots/containerDiagram.png)) | ![Image 3]([https://github.com/favicon.ico](https://github.com/lhona01/CashFlow_WebApp/blob/086c48e251aa38a27f17764a1136cc602116420e/screenshots/deploymentDiagram.png)) |
-### System Diagram/ Container Diagram/ Deployment Diagram
-<div>
-  <img src="https://github.com/lhona01/CashFlow_WebApp/blob/3c4e9b4bc6eff469e9a94e84a008cf303d2f40fe/screenshots/systemDiagram.png" width="50" style="display:inline-block; margin-right:1000px;">
-  <img src="https://github.com/lhona01/CashFlow_WebApp/blob/086c48e251aa38a27f17764a1136cc602116420e/screenshots/containerDiagram.png" width="50" style="display:inline-block; margin-right:1000px;">
-  <img src="https://github.com/lhona01/CashFlow_WebApp/blob/086c48e251aa38a27f17764a1136cc602116420e/screenshots/deploymentDiagram.png" width="50" style="display:inline-block;">
-</div>
+| <img src="https://github.com/lhona01/CashFlow_WebApp/blob/3c4e9b4bc6eff469e9a94e84a008cf303d2f40fe/screenshots/systemDiagram.png" width="50" style="display:inline-block; margin-right:1000px;"> |   <img src="https://github.com/lhona01/CashFlow_WebApp/blob/086c48e251aa38a27f17764a1136cc602116420e/screenshots/containerDiagram.png" width="50" style="display:inline-block; margin-right:1000px;"> | <img src="https://github.com/lhona01/CashFlow_WebApp/blob/086c48e251aa38a27f17764a1136cc602116420e/screenshots/deploymentDiagram.png" width="50" style="display:inline-block;"> |
