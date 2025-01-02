@@ -8,4 +8,4 @@ Based on user input to the following section, display total cash available, and 
 
 ## Software Architecture
 ### System Diagram
-<img src="https://github.com/lhona01/CashFlow_WebApp/blob/3c4e9b4bc6eff469e9a94e84a008cf303d2f40fe/screenshots/systemDiagram.png" height="48" width="48">
+<img src="https://github.com/lhona01/CashFlow_WebApp/blob/3c4e9b4bc6eff469e9a94e84a008cf303d2f40fe/screenshots/systemDiagram.png" height="10%" width="10%">
