@@ -14,4 +14,4 @@ Based on user input to the following section, display total cash available, and 
 ## Frontend Component Diagram
 | Login | Home |
 |---------|---------|
-| <img src="https://github.com/lhona01/CashFlow_WebApp/blob/main/screenshots/Frontend/MainComponent_1.png" width="50"> | <img src="https://github.com/lhona01/CashFlow_WebApp/blob/main/screenshots/Frontend/MainComponent_2.png" width=50> |
+| <img src="https://github.com/lhona01/CashFlow_WebApp/blob/main/screenshots/Frontend/MainComponent_1.png"> | <img src="https://github.com/lhona01/CashFlow_WebApp/blob/main/screenshots/Frontend/MainComponent_2.png"> |
